@@ -1,7 +1,7 @@
 # Largest Container - Two Pointer Approach
 
 ## Problem Statement
-Given an array `heights` where each element represents the height of a vertical line on a 1D plane, find two lines that together with the x-axis form a container such that the container holds the most water.  You must use the minimum height of the 2 otherwise the water would overflow
+Given an array `heights` where each element represents the height of a vertical line on a 1D plane, find two lines that together with the x-axis form a container such that the container holds the most water.  You must use the minimum height of the 2 otherwise the water would overflow.
 
 You must return the maximum amount of water that can be contained.
 
